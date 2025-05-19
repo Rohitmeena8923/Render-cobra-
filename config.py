@@ -9,7 +9,7 @@ API_HASH = getenv("API_HASH", "b70bb1d45a1d05236671d4cc615e40f9")
 # -------------------- Bot Token & Info ----------------------------
 
 BOT_TOKEN = getenv("BOT_TOKEN", "7710884267:AAFwceEWEXk62mueTA_QzXcwP4NrO88uMOM")
-BOT_USERNAME = getenv("BOT_USERNAME", "@Pentin_extractorbot")
+BOT_USERNAME = getenv("BOT_USERNAME", "@Kuku_luciferbot")
 
 # -------------------- Owner & Admins ------------------------------
 
